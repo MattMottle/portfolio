@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Matt Mottle</title>
+<link rel="stylesheet" type="text/css" href="/css/home.css">
 </head>
 <body>
 	<header>
