@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Projects</title>
+<link rel="stylesheet" type="text/css" href="/css/projects.css">
 </head>
 <body>
 	<header>
@@ -19,7 +20,21 @@
         </ul>
 	</nav>
 	<div class="site-wrap">
-		
+		<div class="project1">
+			<img src="/images/workinprocess.png"/>
+			<a href="https://github.com/MattMottle/workInProcess">Work In Process</a>
+		</div>
+		<div class="project2">
+			<img src="/images/garagesale.png"/>
+			<a href="https://github.com/MattMottle/Coding_Study_Buddies/tree/main/garageSale">Garage Sale</a>
+		</div>
+		<div class="project3">
+			<img src="/images/author.png"/>
+			<a href="https://github.com/MattMottle/authors">Authors</a>
+		</div>
+		<div class="project4"></div>
+		<div class="project5"></div>
+		<div class="project6"></div>
 	</div>
 <script>
     const nav = document.querySelector('#main');
